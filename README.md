@@ -11,4 +11,4 @@ http://www.musl-libc.org/
 * Felix Janda <felix.janda@posteo.de>
 
 ## Repoman Status
-[![Repoman Status](https://travis-ci.org/gentoo/musl.png)](https://travis-ci.org/gentoo/musl)
+[![Repoman Status](https://travis-ci.org/mjeveritt/gentoo-musl.svg?branch=master)](https://travis-ci.org/mjeveritt/gentoo-musl)
